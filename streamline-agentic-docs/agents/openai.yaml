@@ -1,0 +1,5 @@
+interface:
+  display_name: "Streamline Agentic Docs"
+  short_description: "Audit and restructure a repo's agent docs"
+policy:
+  allow_implicit_invocation: false
